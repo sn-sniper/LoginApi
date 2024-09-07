@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "better-sqlite3": "^11.2.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.4"
+  },
+  "name": "login-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/main"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
